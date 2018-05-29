@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter>
+    <id>ATest/1</id>
+    <type></type>
+    <side>Buy</side>
+    <fromDate>30.05.2017</fromDate>
+    <tillDate>30.05.2017</tillDate>
+    <expDate></expDate>
+    <delDate></delDate>
+    <ctpt></ctpt>
+    <portfolio></portfolio>
+    <branch></branch>
+    <instrument></instrument>
+    <status></status>
+    <limit></limit>
+</filter>

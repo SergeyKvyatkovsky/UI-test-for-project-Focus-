@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filters>
+    <filter name="new">
+        <name>Autotest Common Filter</name>
+        <branch>ATB</branch>
+    </filter>
+    <filter name="edit">
+        <name>Autotest_filter_2</name>
+    </filter>
+</filters>

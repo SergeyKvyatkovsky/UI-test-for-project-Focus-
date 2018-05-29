@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Необходимо перестать использовать-->
+<Parameters>
+    <Global>
+        <Parameter name="url">http://hard-test.egar.egartech.com/limitsmanager/login.do</Parameter>
+        <Parameter name="username">e.uvarov</Parameter>
+
+        <Parameter name="timeWaitFor">10</Parameter>
+        <Parameter name="timeWaitForHide">10</Parameter>
+    </Global>
+    <DataTables>
+        <DataTable name="Counterparties">
+            <Parameter name="ColumnName">Id</Parameter>
+            <Parameter name="ColumnName">Name</Parameter>
+            <Parameter name="ColumnName">ShortName</Parameter>
+            <Parameter name="ColumnName">Type</Parameter>
+            <Parameter name="ColumnName">RiskGroupId</Parameter>
+            <Parameter name="ColumnName">CountryId</Parameter>
+            <Parameter name="ColumnName">ParentId</Parameter>
+            <Parameter name="ColumnName">MarketSectorId</Parameter>
+            <Parameter name="ColumnName">IsBranch</Parameter>
+            <Parameter name="ColumnName">IsClient</Parameter>
+            <Parameter name="ColumnName">IsIssuer</Parameter>
+            <Parameter name="ColumnName">IsDepositary</Parameter>
+            <Parameter name="ColumnName">GroupId</Parameter>
+            <Parameter name="ColumnName">LE ID</Parameter>
+            <Parameter name="ColumnName">PINEQ</Parameter>
+            <Parameter name="ColumnName">Focus ID</Parameter>
+        </DataTable>
+    </DataTables>
+</Parameters>

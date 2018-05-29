@@ -1,0 +1,57 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Limits Manager" parallel="false">
+
+    <listeners>
+        <listener class-name="Core.TestListener"/>
+    </listeners>
+
+    <parameter name="implicitly_wait" value="5"/>
+    <parameter name="browser" value="chromeWindows"/>
+
+    <!--<test name="Authorization">
+        <classes>
+            <class name="Authorization.Authorization"/>
+            <class name="Authorization.Logout"/>
+        </classes>
+    </test>
+    <test name="Data">
+        <classes>
+            <class name="Data.ViewData"/>
+            <class name="Data.NewRecord"/>
+         <class name="Data.Pagination"/>
+       </classes>
+    </test>
+  <test name="Limits">
+        <classes>
+           <class name="Limits.Categories"/>
+            <class name="Limits.Limit"/>
+            <class name="Limits.Clone"/>
+            <class name="Limits.LimitFilter"/>
+           <class name="Limits.CategoryFilter"/>
+            <class name="Limits.CategoryTimer"/>
+            <class name="Limits.LimitTimer"/>
+        </classes>
+   </test>
+    <test name="Administration">
+      <classes>
+            <class name="Administration.CommonFilter"/>
+            <class name="Administration.Timer"/>
+        </classes>
+    </test>
+     <test name="TradesBlotter">
+        <classes>
+            <class name="TradesBlotter.TradesBlotter"/>
+            <class name="TradesBlotter.ViewTransactionInformation"/>
+            <class name="TradesBlotter.VerificationOfTransactionEditing"/>
+            <class name="TradesBlotter.DeletingDealChecking"/>
+        </classes>
+    </test>-->
+    <test name="TradesBlotter">
+        <classes>
+           <!-- <class name="TradesBlotter.RequestHttp"/-->
+           <class name="TradesBlotter.TestMethod"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record name="counterpartyNew">
+        <Name>Autotest Counterparty</Name>
+        <ShortName>Autoctpt</ShortName>
+    </record>
+    <record name="counterpartyEdit">
+        <Name>Autotest Counterparty2</Name>
+        <ShortName>A_CTPT</ShortName>
+    </record>
+</records>

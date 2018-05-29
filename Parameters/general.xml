@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<general>
+    <!--<url>http://hard-test.egar.egartech.com/limitsmanager/login.do</url>-->
+    <url>http://alfa-limits.egar.egartech.com/limitsmanager/console/</url>
+    <timeWaitFor>5</timeWaitFor>
+    <timeWaitForHide>5</timeWaitForHide>
+</general>

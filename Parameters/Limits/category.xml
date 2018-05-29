@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category name="new">
+        <name>Autotest Category</name>
+    </category>
+    <category name="edit">
+        <name>Category_autotest_edit</name>
+    </category>
+</categories>

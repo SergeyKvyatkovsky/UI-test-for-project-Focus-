@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<limits>
+    <limit name="new">
+        <name>OPA Test Limit</name>
+        <value>10000.12</value>
+        <endDate>12.12.2030</endDate>
+    </limit>
+    <limit name="edit">
+        <name>OPA Test Limit (edit)</name>
+        <value>123456.78</value>
+        <endDate></endDate>
+    </limit>
+    <limit name="parent">
+        <name>ATest BAL Limit</name>
+        <value>100000.50</value>
+    </limit>
+    <limit name="child">
+        <name>_child</name>
+    </limit>
+</limits>

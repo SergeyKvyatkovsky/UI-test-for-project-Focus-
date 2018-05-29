@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trades>
+    <trade name="SSF">
+        <type>Security Spot/Forward</type>
+        <identifier>AT</identifier>
+        <side>buy</side>
+        <date></date>
+        <branch>ATest Branch</branch>
+        <client>ATest Client</client>
+        <ctpt>ATest Counterparty</ctpt>
+        <portfolio>ATest Portfolio</portfolio>
+        <trader>ATest Trader</trader>
+        <instrument>ATest Instrument</instrument>
+        <bostatus></bostatus>
+        <quantity>1000000</quantity>
+        <price>97</price>
+        <priceCurrencyCode>USD</priceCurrencyCode>
+        <payment>2000</payment>
+        <paymentCurrencyCode>USD</paymentCurrencyCode>
+        <accruedInterest>12</accruedInterest>
+        <settlementType>Free</settlementType>
+    </trade>
+    <trade name="FXSF">
+        <type>FX Spot/Forward</type>
+        <identifier>AT</identifier>
+        <side>buy</side>
+        <date></date>
+        <branch>ATest Branch</branch>
+        <client>ATest Client</client>
+        <ctpt>ATest Counterparty</ctpt>
+        <portfolio>ATest Portfolio</portfolio>
+        <trader>ATest Trader</trader>
+        <instrument>ATest Currency Pair</instrument>
+        <bostatus></bostatus>
+        <quantity>1000000</quantity>
+        <price>97</price>
+        <payment>2000</payment>
+        <settlementType>Free</settlementType>
+        <isForward>1</isForward>
+    </trade>
+</trades>

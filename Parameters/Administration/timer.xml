@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timers>
+    <timer name="new">
+        <name>Autotest_timer_new</name>
+        <priority>12</priority>
+        <comment>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</comment>
+        <schedule>
+            <time>12:10</time>
+            <time>12:20</time>
+            <time>12:30</time>
+            <time>12:40</time>
+        </schedule>
+    </timer>
+    <timer name="edit">
+        <name>Autotest timer</name>
+        <priority>11</priority>
+        <comment>Test timer for ui-tests</comment>
+        <schedule>
+            <time>12:15</time>
+            <time>12:25</time>
+            <time>12:35</time>
+            <time>12:50</time>
+            <time>12:55</time>
+        </schedule>
+    </timer>
+</timers>
