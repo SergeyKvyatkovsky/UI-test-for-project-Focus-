@@ -11,7 +11,7 @@
     <properties>
         <!-- Dependencies Versions -->
         <compiler.version>1.7</compiler.version>
-        <allure.version>1.4.23</allure.version>
+        <allure.version>1.5.4</allure.version>
         <aspectj.version>1.7.3</aspectj.version>
 
         <!-- Plugin Versions -->
@@ -175,4 +175,4 @@
         </plugins>
     </reporting>
 
-</project >
+</project>
