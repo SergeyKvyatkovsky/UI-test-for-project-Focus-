@@ -55,7 +55,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>18.0</version>
+            <version>32.0.0-android</version>
         </dependency>
         <!--добавил -->
         <dependency>
@@ -67,7 +67,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>2.52.0</version>
+            <version>3.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.testng</groupId>
@@ -175,4 +175,4 @@
         </plugins>
     </reporting>
 
-</project >
+</project>
